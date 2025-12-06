@@ -1,6 +1,4 @@
-# Serial Experiments Lain Linux Rice!
-
-## [Watch the Trailer](https://youtu.be/Leuyjxx0Pm0)
+# Serial Experiments Lain Linux Rice for Gnome DE!
 
 ## Screenshots:
 ![](https://i.imgur.com/aFjY26T.png)
